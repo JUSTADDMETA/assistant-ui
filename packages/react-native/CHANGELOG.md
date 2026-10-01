@@ -1,5 +1,13 @@
 # @assistant-ui/react-native
 
+## 0.1.45
+
+### Patch Changes
+
+- [#8684](https://github.com/assistant-ui/assistant-ui/pull/8684) [`5b65868`](https://github.com/assistant-ui/assistant-ui/commit/5b65868690ca9b20b1d7b98291f71668f3a2b8cd) - key message parts by their id when no other part of the same type in the message shares it, so a replaced or reordered part no longer keeps another part's component state ([@okisdev](https://github.com/okisdev))
+- Updated dependencies [[`f7eae39`](https://github.com/assistant-ui/assistant-ui/commit/f7eae391102fb59f060ff6fdfe00064f7f75d71c), [`5b65868`](https://github.com/assistant-ui/assistant-ui/commit/5b65868690ca9b20b1d7b98291f71668f3a2b8cd)]:
+  - @assistant-ui/core@0.3.23
+
 ## 0.1.44
 
 ### Patch Changes
