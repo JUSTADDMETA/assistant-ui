@@ -1,5 +1,13 @@
 # @assistant-ui/ai-sdk
 
+## 0.0.10
+
+### Patch Changes
+
+- [#8684](https://github.com/assistant-ui/assistant-ui/pull/8684) [`5b65868`](https://github.com/assistant-ui/assistant-ui/commit/5b65868690ca9b20b1d7b98291f71668f3a2b8cd) - forward data part ids from AI SDK messages in both directions. ([@okisdev](https://github.com/okisdev))
+- Updated dependencies [[`f7eae39`](https://github.com/assistant-ui/assistant-ui/commit/f7eae391102fb59f060ff6fdfe00064f7f75d71c), [`5b65868`](https://github.com/assistant-ui/assistant-ui/commit/5b65868690ca9b20b1d7b98291f71668f3a2b8cd)]:
+  - @assistant-ui/core@0.3.23
+
 ## 0.0.9
 
 ### Patch Changes

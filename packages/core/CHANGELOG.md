@@ -1,5 +1,13 @@
 # @assistant-ui/core
 
+## 0.3.23
+
+### Patch Changes
+
+- [#8680](https://github.com/assistant-ui/assistant-ui/pull/8680) [`f7eae39`](https://github.com/assistant-ui/assistant-ui/commit/f7eae391102fb59f060ff6fdfe00064f7f75d71c) - keep pending history writes from restoring deleted messages without delaying deletion ([@okisdev](https://github.com/okisdev))
+
+- [#8684](https://github.com/assistant-ui/assistant-ui/pull/8684) [`5b65868`](https://github.com/assistant-ui/assistant-ui/commit/5b65868690ca9b20b1d7b98291f71668f3a2b8cd) - preserve message part state by host-supplied identity across renderers and store lookups, and carry part identity through cloud persistence; a part whose type changes at the same position now mounts fresh state. ([@okisdev](https://github.com/okisdev))
+
 ## 0.3.22
 
 ### Patch Changes

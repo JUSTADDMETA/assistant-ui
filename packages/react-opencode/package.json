@@ -49,7 +49,7 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "@assistant-ui/core": "^0.3.22",
+    "@assistant-ui/core": "^0.3.23",
     "@assistant-ui/store": "^0.3.16",
     "@opencode-ai/sdk": "^1.18.31",
     "assistant-cloud": "*"
